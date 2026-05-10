@@ -48,13 +48,5 @@ To ensure an accurate analysis, several critical data cleaning steps were perfor
 * **Mental Health:** Approximately **25%** of victims showed signs of mental illness, emphasizing the need for better crisis intervention strategies.
 * **Context Matters:** By merging census data, the project proves that social conditions (poverty/education) are deeply linked to the frequency of these incidents.
 
----
-
-## 📂 Project Structure
-```text
-├── Data/
-│   ├── Fatalities_Data.csv
-│   ├── Share_Race_By_City.csv
-│   └── Median_Income_2015.csv
-├── Police_Analysis.ipynb (Jupyter Notebook)
-└── README.md
+## AUTHOR:--
+**DIVYA😊😊**
