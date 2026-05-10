@@ -25,8 +25,9 @@ Hello! I am **Divya**, *thankyou for visiting here😊*, and this repository con
 ### 1. Demographic & Racial Disparity
 While White individuals represent the highest absolute number of fatalities, this analysis reveals a significant **disproportionate impact** on minorities. By contrasting "Death Share %" with "Population Share %," the data highlights systemic disparities.
 
+## (a)Insert Race Distribution Chart
 ![Insert Race Distribution Chart](image1.png)
-## Relationship Between Poverty Rates and HS Graduation Rates by State
+## (b) Relationship Between Poverty Rates and HS Graduation Rates by State
 ![Relationship Between Poverty Rates and HS Graduation Rates by State](image5.png)
 
 
