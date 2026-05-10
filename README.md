@@ -1,17 +1,17 @@
 # US Police Fatalities: A Multi-Dimensional Data Analysis
 
 ## 👋 Welcome to the Project!
-Hello! I am **Divya**, a Data Science student, and this repository contains my deep-dive analysis into one of the most complex social issues in the United States. 
+Hello! I am **Divya**, *thankyou for visiting here😊*, and this repository contains my deep-dive analysis into one of the most complex social issues in the United States. 
 
-The goal of this project is not just to count numbers, but to uncover the stories and patterns hidden within the data. By combining multiple datasets, I aim to provide an evidence-based perspective on how socio-economic factors influence fatal encounters.
+**The goal of this project is not just to count numbers, but to uncover the stories and patterns hidden within the data. By combining multiple datasets, I aim to provide an evidence-based perspective on how socio-economic factors influence fatal encounters.**
 
 
 ##  What You Will Learn from This Project
-By exploring this notebook, you will see a complete Data Science pipeline in action. Here is what we cover:
+*By exploring this notebook, you will see a complete Data Science pipeline in action. Here is what we cover:*
 
 
 ##  Project Overview
-This project is an in-depth data science exploration of **US Police Shootings**. By integrating fatalities records with US Census data (Poverty, Education, and Race), I analyzed the socio-economic and demographic factors that correlate with fatal incidents across the United States.
+**This project is an in-depth data science exploration of **US Police Shootings**. By integrating fatalities records with US Census data (Poverty, Education, and Race), I analyzed the socio-economic and demographic factors that correlate with fatal incidents across the United States.**
 
 
 
