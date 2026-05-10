@@ -36,7 +36,7 @@ Using a `Twin Axes` chart, I identified a strong inverse relationship between **
 
 ## (a) Racial Makeup of Each US State (Share of Population)
 ![Racial Makeup of Each US State (Share of Population)](image6.png)
-## Distribution of Ages of People Killed by Police
+## (b) Distribution of Ages of People Killed by Police
 ![Distribution of Ages of People Killed by Police](image4.png)
 
 
@@ -47,9 +47,6 @@ I utilized **Plotly Express** to create an interactive map identifying "Fataliti
 ### 4. Time-Series Trend Analysis (Resampling)
 I applied **Monthly Resampling (Downsampling)** to convert daily incident records into a clear monthly trend. This allowed me to look past the daily "noise" to see if the rate of shootings was changing over time.
 ![Interactive Trend of Police Killings Over Time'](image3.png)
-
-
-
 
 ##  Data Cleaning & Preprocessing
 To ensure an accurate analysis, several critical data cleaning steps were performed:
