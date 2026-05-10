@@ -27,22 +27,23 @@ Hello! I am **Divya**, *thankyou for visiting here😊*, and this repository con
 
 ### 1. Demographic & Racial Disparity
 While White individuals represent the highest absolute number of fatalities, this analysis reveals a significant **disproportionate impact** on minorities. By contrasting "Death Share %" with "Population Share %," the data highlights systemic disparities.
-* **Image 1: [Insert Race Distribution Chart]**
+
+![Insert Race Distribution Chart](image1.png)
 * **Image 2: [Insert Death vs Population Share Contrast Chart]**
 
 ### 2. Socio-Economic Correlation (Poverty vs. Education)
 Using a `Twin Axes` chart, I identified a strong inverse relationship between **Poverty Rates** and **High School Graduation** levels. Higher poverty and lower education levels often overlap in states with high fatality counts.
-* **Image 3: [Insert Poverty vs Education Twin Axes Chart]**
+* **Image 3: [Racial Makeup of Each US State (Share of Population)]**
 * **Image 4: [Distribution of Ages of People Killed by Police]**
 
 
 ### 3. Geographical Hotspots (Choropleth Map)
 I utilized **Plotly Express** to create an interactive map identifying "Fatalities Intensity" by state. California, Texas, and Florida emerged as the states with the highest total counts.
-* **Image 4: [Insert Interactive Choropleth Map Screenshot]**
+* **Image 5: [Insert Interactive Choropleth Map Screenshot]**
 
 ### 4. Time-Series Trend Analysis (Resampling)
 I applied **Monthly Resampling (Downsampling)** to convert daily incident records into a clear monthly trend. This allowed me to look past the daily "noise" to see if the rate of shootings was changing over time.
-* **Image 5: [Insert Interactive Monthly Trend Line Chart]**
+* **Image 6: [Insert Interactive Monthly Trend Line Chart]**
 
 
 
