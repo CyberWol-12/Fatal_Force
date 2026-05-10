@@ -34,6 +34,7 @@ While White individuals represent the highest absolute number of fatalities, thi
 ### 2. Socio-Economic Correlation (Poverty vs. Education)
 Using a `Twin Axes` chart, I identified a strong inverse relationship between **Poverty Rates** and **High School Graduation** levels. Higher poverty and lower education levels often overlap in states with high fatality counts.
 
+## (a) Racial Makeup of Each US State (Share of Population)
 ![Racial Makeup of Each US State (Share of Population)](image6.png)
 ## Distribution of Ages of People Killed by Police
 ![Distribution of Ages of People Killed by Police](image4.png)
