@@ -33,6 +33,8 @@ While White individuals represent the highest absolute number of fatalities, thi
 ### 2. Socio-Economic Correlation (Poverty vs. Education)
 Using a `Twin Axes` chart, I identified a strong inverse relationship between **Poverty Rates** and **High School Graduation** levels. Higher poverty and lower education levels often overlap in states with high fatality counts.
 * **Image 3: [Insert Poverty vs Education Twin Axes Chart]**
+* **Image 4: [Distribution of Ages of People Killed by Police]**
+
 
 ### 3. Geographical Hotspots (Choropleth Map)
 I utilized **Plotly Express** to create an interactive map identifying "Fatalities Intensity" by state. California, Texas, and Florida emerged as the states with the highest total counts.
