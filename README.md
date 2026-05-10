@@ -29,7 +29,7 @@ Hello! I am **Divya**, *thankyou for visiting here😊*, and this repository con
 While White individuals represent the highest absolute number of fatalities, this analysis reveals a significant **disproportionate impact** on minorities. By contrasting "Death Share %" with "Population Share %," the data highlights systemic disparities.
 
 ![Insert Race Distribution Chart](image1.png)
-![Insert Death vs Population Share Contrast Chart](image3.png)
+![Insert Death vs Population Share Contrast Chart](image5.png)
 
 
 ### 2. Socio-Economic Correlation (Poverty vs. Education)
@@ -45,7 +45,7 @@ I utilized **Plotly Express** to create an interactive map identifying "Fataliti
 
 ### 4. Time-Series Trend Analysis (Resampling)
 I applied **Monthly Resampling (Downsampling)** to convert daily incident records into a clear monthly trend. This allowed me to look past the daily "noise" to see if the rate of shootings was changing over time.
-![Insert Interactive Choropleth Map Screenshot](image1.png)
+![Interactive Trend of Police Killings Over Time'](image3.png)
 
 
 
