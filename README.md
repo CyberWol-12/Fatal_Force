@@ -9,11 +9,8 @@ Hello! I am **Divya**, *thankyou for visiting here😊*, and this repository con
 ##  What You Will Learn from This Project
 *By exploring this notebook, you will see a complete Data Science pipeline in action. Here is what we cover:*
 
-
 ##  Project Overview
 **This project is an in-depth data science exploration of **US Police Shootings**. By integrating fatalities records with US Census data (Poverty, Education, and Race), I analyzed the socio-economic and demographic factors that correlate with fatal incidents across the United States.**
-
-
 
 ##  Tech Stack & Skills
 * **Language:** Python 3.x
@@ -29,6 +26,7 @@ Hello! I am **Divya**, *thankyou for visiting here😊*, and this repository con
 While White individuals represent the highest absolute number of fatalities, this analysis reveals a significant **disproportionate impact** on minorities. By contrasting "Death Share %" with "Population Share %," the data highlights systemic disparities.
 
 ![Insert Race Distribution Chart](image1.png)
+## Relationship Between Poverty Rates and HS Graduation Rates by State
 ![Relationship Between Poverty Rates and HS Graduation Rates by State](image5.png)
 
 
@@ -36,6 +34,7 @@ While White individuals represent the highest absolute number of fatalities, thi
 Using a `Twin Axes` chart, I identified a strong inverse relationship between **Poverty Rates** and **High School Graduation** levels. Higher poverty and lower education levels often overlap in states with high fatality counts.
 
 ![Racial Makeup of Each US State (Share of Population)](image6.png)
+## Distribution of Ages of People Killed by Police
 ![Distribution of Ages of People Killed by Police](image4.png)
 
 
